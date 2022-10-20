@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @helixgreen
-- 👀 I’m interested in mathematics, algorithms, software development.
+- 👀 I’m interested in mathematics, algorithms, and software development.
 - 📫 You can reach me at helixgreen@gmail.com
 
 <!---
